@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/Hibernate_02_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/sqlclass_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_02_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_03_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_04_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_05_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_06_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/strutsGird_plan_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/web_02_war_exploded/WEB-INF/classes/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/Hibernate_02/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/sqlclass/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/struts2/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/struts2_02/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/struts2_03/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/struts2_04/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/struts2_05/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/struts2_06/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/strutsGird_plan/struts.xml" />
+    <file type="Struts2" url="file://E:/myeclipse1/day21_00_bookstore/classes/production/web_02/struts.xml" />
+    <file type="web" url="file://$PROJECT_DIR$/../mavenAll/ssm_02" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-common" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-order" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso" />
+    <file type="web" url="file://$PROJECT_DIR$/yb-manager" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/day21_00_bookstore_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/Hibernate_02_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/sqlclass_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/sqlclass_war_exploded/web/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_02_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_03_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_04_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_05_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_06_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/struts2_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/strutsGird_plan_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/web_01_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://E:/myeclipse1/day21_00_bookstore/classes/artifacts/web_02_war_exploded/WEB-INF/web.xml" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-search/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

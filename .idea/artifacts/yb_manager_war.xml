@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yb-manager:war">
+    <output-path>$PROJECT_DIR$/yb-manager/target</output-path>
+    <root id="archive" name="yb-manager.war">
+      <element id="artifact" artifact-name="yb-manager:war exploded" />
+    </root>
+  </artifact>
+</component>
